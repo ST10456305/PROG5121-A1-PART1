@@ -1,6 +1,6 @@
 # README - ChatApp Login Page
 
-This is the login and registration page for a chat app. It lets you register a username, password, and phone number, and then log in. Made in Java with a GUI and tests. AI (ChatGPT) helped write and test the code for this assignment.
+This is the login and registration page for a chat app. It lets you register a username, password, and phone number, and then log in. Made in Java with tests. AI (ChatGPT) helped recommend code for this project.
 
 ## References
 
